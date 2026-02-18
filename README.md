@@ -37,20 +37,20 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
+ * @param {string} location - VILLAVICENCIO, META, COLOMBIA.
+ * @param {string} languagues - English, Spanish.
  * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
+ * @param {string} specialization - Building full-fledged Backend systems and  frontend.
+ * @param {string} interests - AI, Distributed Systems,problem-solving and ciber segurity.
+ * @param {string} hobbies - self-learning, playing football and going out to eat.
+ * @param {string} education - studying software engineering and certified courses
  * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
  * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} weakness - not many
  *
  * @throws {Punch} To any and all bugs.
  *
- * @returns {Object} Kartik.
+ * @returns {Object} JARA.
  */
 ```
 
